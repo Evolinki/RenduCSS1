@@ -5,9 +5,9 @@ CSSTECH
 
 
 
-# Get random numer
+# Scrapper
 
-A demo package
+Scrap pokedex of pokebip withh my repo :)
 
 ## Installation
 
